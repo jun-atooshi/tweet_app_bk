@@ -60,8 +60,8 @@ gem 'net-pop'
 
 gem 'devise'
 
-gem 'rails_admin', '~> 2.0'
-gem 'cancan'
+# gem 'rails_admin', '~> 2.0'
+# gem 'cancan'
 
 group :development do
   gem 'letter_opener_web'
